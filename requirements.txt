@@ -1,0 +1,9 @@
+Flask 
+SQLAlchemy 
+mysqlclient
+flask_sqlalchemy
+mysql-connector
+mysql-connector-python
+mysql-connector-python-rf
+pymsql
+cryptography
